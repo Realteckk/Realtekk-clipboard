@@ -17,7 +17,7 @@ p{
 @media screen and (max-width:953px)  {
 
     p{
-        font-size: 15px;
+        font-size: 10vw;
     }
     .header{
         background-image: url('./images/bg-header-desktop.png');
