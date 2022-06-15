@@ -181,7 +181,9 @@ p{
 }
 
 @media screen and (min-width:953px) {
-    
+    p{
+    font-size:0.9em;
+    }
 .header{
     background-image: url(./images/bg-header-desktop.png);
     align-items: center;
